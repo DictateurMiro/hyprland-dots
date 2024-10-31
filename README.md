@@ -11,6 +11,10 @@ Collection of specific dotfiles for hyprland
 
 <img src="https://raw.githubusercontent.com/DictateurMiro/hyprland-dots/refs/heads/main/img/neofetch-angrycat.png">
 
+## Neofetch (<a href="https://github.com/DictateurMiro/hyprland-dots/tree/main/dots/neofetch/magic-cat">magic-cat</a>)
+
+<img src="https://raw.githubusercontent.com/DictateurMiro/hyprland-dots/refs/heads/main/img/neofetch-magiccat.png">
+
 ---
 
 ## Kitty (<a href="https://github.com/DictateurMiro/hyprland-dots/tree/main/dots/kitty/pokemon">pokemon</a>)
